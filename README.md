@@ -1,1 +1,1 @@
-ECHO is off.
+Keep you Desktop clean!
